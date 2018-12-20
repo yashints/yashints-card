@@ -1,13 +1,13 @@
-# ReverentGeek Calling Card
+# Yashints Calling Card
 
 In case you ever need my information and all you have is a terminal and `npm`.
 
 ## Usage
 
 ```bash
-npx reverentgeek
+npx yashints
 ```
 
 ## Credit
 
-Completely *borrowed* this idea from [Tierney](https://github.com/bnb/bitandbang) :)
+Completely *borrowed* this idea from [David Neal](https://github.com/reverentgeek) which he's borrowed from [Tierney](https://github.com/bnb/bitandbang) 😁🔥🔥👨‍💻
