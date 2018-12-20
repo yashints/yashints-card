@@ -1,5 +1,5 @@
 {
-  "name": "reverentgeek",
+  "name": "yashints",
   "version": "1.0.1",
   "description": "My personal calling card.",
   "main": "./bin/card.js",
@@ -10,11 +10,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "David",
-    "Neal",
-    "reverentgeek"
+    "Yaser",
+    "Adel Mehraban",
+    "yashints"
   ],
-  "author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
+  "author": "Yaser Adel Mehraban <yaser@mehraban.com.au> (https://mehraban.com.au)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
