@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.com/yashints/yashints-card.svg?branch=master)
+
 # Yashints Calling Card
 
 In case you ever need my information and all you have is a terminal and `npm`.
