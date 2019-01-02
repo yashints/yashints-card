@@ -50,7 +50,7 @@ const carding = `\n${ data.labelCard }  ${ data.npx }`;
 const bio = `\n${ data.bio }`;
 
 const card = [
-	banner,
+	avatar, banner,
 	heading, working, 
 	twittering, githubing, linkedining,
 	webing, carding, bio
