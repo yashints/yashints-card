@@ -4,9 +4,10 @@
   "description": "My personal calling card.",
   "main": "./bin/card.js",
   "bin": {
-    "reverentgeek": "./bin/card.js"
+    "yashints": "./bin/card.js"
   },
   "scripts": {
+    "yashints": "node ./bin/card.js",
     "test": "echo \"Success\""
   },
   "keywords": [
